@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to Roger Crabs printed paper to the Quakers, and likewise to his principles and doctrines, whose spirit is tryed and found in the dark which is to be directed again to Roger Crab and his followers, who cryed up his paper, that they may learn wisdom to preserve them in innocency, in the power of God, in which there is no confusion / by George Salter.</title>
+            <author>Salter, George.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60873</idno>
+            <idno type="STC">Wing S463</idno>
+            <idno type="STC">ESTC R1785</idno>
+            <idno type="EEBO-CITATION">13173424</idno>
+            <idno type="OCLC">ocm 13173424</idno>
+            <idno type="VID">98330</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60873)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98330)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 777:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to Roger Crabs printed paper to the Quakers, and likewise to his principles and doctrines, whose spirit is tryed and found in the dark which is to be directed again to Roger Crab and his followers, who cryed up his paper, that they may learn wisdom to preserve them in innocency, in the power of God, in which there is no confusion / by George Salter.</title>
+                  <author>Salter, George.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crab, Roger, 1621?-1680.</term>
+               <term>Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98330:1" rendition="simple:additions"/>
+            <p>AN ANSWER TO <hi>ROGER CRABS</hi> Printed paper to the QUAKERS. AND Likewiſe to his Principles and Doctrines, Whoſe ſpirit is tryed and found in the dark.</p>
+            <p>VVhich is to be directed again to <hi>Roger Crab</hi> and his followers, who cryed up his paper; that they may learn wiſ<g ref="char:EOLhyphen"/>dom to preſerve them in innocency, in the power of God, in which there is no confuſion.</p>
+            <p>By <hi>George Salter.</hi>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>Thomas Simmons</hi> at the Bull and mouth neer Alderſgate, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:98330:2" rendition="simple:additions"/>
+            <opener>
+               <salute>Friend <hi>Crab,</hi>
+               </salute>
+            </opener>
+            <p>WEE have viewed thy letter, which is not the word of the Lord, but much confuſion there is in it, and is not from the <hi>eſſence</hi> the eternal power; for thou ſpeakeſt of a place <hi>where no Righteouſneſſe ſhall enter in,</hi> without diſtinction; What, art not thou one of the fooliſh prophets that puts no difference between the pretious and the vile? Doth not Chriſt the righteouſneſſe of God enter in? Doth not he that is Righteous as God is righteous enter in, that ſits on the Throne with clean hands? And thou ſayeſt again, <hi>all be<g ref="char:EOLhyphen"/>loveds</hi> without diſtinction; <hi>muſt be taken away.</hi> What, is Chriſt and God the beloved, the husband, doth not he remain? What fooliſh Pro<g ref="char:EOLhyphen"/>phet is this, with his fooliſh inſtrument, that uſeth the name of the Lord? And thou ſayſt, <hi>Darkneſſe Imagines two powers when there is but one.</hi> How now, <hi>Roger,</hi> what haſt thou made here? What, darkneſſe? The power is light, haſt thou not judged thy ſelfe out of thy own mouth, and thy tongue out-run thy knowledge? haſt thou not made two powers, who ſayeth <hi>Darkneſſe Imagines?</hi> or elſe thou muſt ſay Darkneſſe is God, (in whom there is none) What ſtreams are theſe that runs a broad? what a vomit is this? Doſt think the children of Light can lick it up? So <hi>Eſſence, word,</hi> that called out the <hi>Quakers,</hi> and the Croſſe in which they live, Cauſe the ſufferings and the perſecutions which thou art ignorant of &amp; a Rod they are to thee, and to all the powers of darkneſſe that be out of the truth, which is the wickeds Rod, which bowes before the gates of the righteous. And what, haſt thou not made two powers thy ſelf here? But, <hi>there is but one power over all.</hi> And that power of darkneſſe which went out of truth, (which is the blind, called the God of the World) blindes the eyes of the people, and ſuch be they that are in the power that mars the workmanſhip of God; And ſo the <hi>Quakers,</hi> who are the Royal ſeed of God, elect before the world began, that ſees and feels over the Earth and over ſelfe (which is thy midwife) who is tur<g ref="char:EOLhyphen"/>ned into the Earth, who have helped to bring forth the birth which is ſet up; the propriety in the Earth; and <hi>Sarah,</hi> thou art ignorant of that bears the Seed, The clean woman and ſhe that kept and watered her Fathers ſheep; for if ſelfe had been the <hi>Quakers midwife</hi> ſhe would have kept them from perſecution; but thats become thine; let not ſelfe be thy midwife; what, doſt thou make two powers? doſt thou not confound thy ſelfe in thy own jugement? doſt thou not condemn thy ſelfe in that thou doſt allow? Haſt thou the bleſſing? But the <hi>Quakers</hi> be in that which was before ſelfe was, and knoweth it, who comes to that power, who are manyfeſting their Lord and King to the utmoſt parts of the Earth, who is the ſupream power; and there is none in the power of God that confounds themſelves and their own principles as thou doſt: For if there be <hi>children of darkeneſſe</hi> (as thou ſpeakeſt of, thou haſt ſtopt thy own mouth) which are to perſecute the <hi>Quakers,</hi> So thou haſt ſet
+<pb n="3" facs="tcp:98330:2" rendition="simple:additions"/>up two powers, though thou ſaiſt there is but one. But I muſt tell thee the children of light are in that, that darkneſſe is out of (and her children whoſe midwife is ſelfe) that hath the rod that ſtrecheth over the Sea, whe<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by the waters ſtands in heapes, that the ſpirituall Jewes can paſſe to the ſpiritual Land, and Chriſt goes before them, as <hi>Moſes</hi> did before the temporal Jewes; and our fleſh, if we ſhould have given it that comfort it would not have ſuffered; but thou ſhouldeſt have diſtinguiſhed what that fleſh is, and not have Jumbled them together; for there is a fleſh that ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es no corruption; And art not thou gone out of the form of god<g ref="char:EOLhyphen"/>lineſſe, and out of the power, and the form both of ſound words, and the form of God in which we do ſtick, who are <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the Lambs marriage, and knowes the Lambs marriage? and it is that we ſhould ſtick there, who knowes our maker our husband; But art not thou ſunk down in<g ref="char:EOLhyphen"/>to the Earth, as thy old Father <hi>Adam</hi> for tranſgreſſing and diſobeying the righteous command, and now ſayeſt in the unbelief, <hi>neither righteouſneſſe nor unrighteouſneſſe ſhall inherit?</hi> doth not thy ancient of dayes ſpeak it? and the <hi>Quakers</hi> be in that which comprehends dayes, which are in the firſt and the laſt; which hath ſuch as thou art, and all the world to war with, and all falſe ſpirits out of the truth; they are the Saints that ſhall judge the world, and them that be in the truth they do not judge, but them that be out of the truth; and therefore to judge them that be below us in the truth, as thou ſayeſt; doth thou ſpeak here like wiſdom, or ſelf, which has taken up the beautiful beloveds place, which ſhould have come forth in thy ſelfe, who judges now in the carnal reaſon, underſtand<g ref="char:EOLhyphen"/>ing, wiſdom and knowledge? &amp;c. with that which muſt be con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ounded and come to an end, and come to nothing, to which birth limits &amp; bounds are ſet, but not to the Son, which ſees far above thee who art in the firſt birth among the creaturs that have ſeveral names given to them, according to their nature, and ſome are called <hi>Lyons,</hi> and ſome <hi>Beares Bulls, Heifers and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es,</hi> ſo ther's a deſtinction in theſe natures, which I perceive thou art a man not yet come into the diſtinction of thoſe things, theſe crea<g ref="char:EOLhyphen"/>tures and names according to their natures, which is far off the ſheep and Lambs ſtate, which be in that which is divine; for the others feeds upon graſſe or mortal and fading things; which the ſheep has a ſhepherd who is hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by whom the world was made: Neither I believe haſt thou di<g ref="char:EOLhyphen"/>ſcerned the nature of Trees, who art far from the treaſure of wiſdom, who in halfe a ſheet of paper cannot write but much confuſion, and judge and condemn thy ſelfe with thine own pen and tongue, contradict thy ſelfe and make thy own principles void, who ſpeakes of one power, and makes two, yea, a third <hi>beloved</hi> who art far off the <hi>Lilly;</hi> That which is thy <hi>beloved,</hi> the Lord will rend, <hi>and the beloveds,</hi> and give it to the beaſts of the field and the dogs for to eat; what, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>end the beloved, <hi>and faithfully in the beloved?</hi> This is confuſion, <hi>Roger,</hi> is not the beloved Chriſt, who is the water of life, who makes the waters of life run over, who is God and Chriſt, and ſhall the forme of God paſſe away and be brought to no<g ref="char:EOLhyphen"/>thing? Thou ſaiſt, <hi>all forms,</hi> how ſpeakes wiſdome, how is <hi>all one</hi> when thou ſpeakeſt of <hi>Selfe, and powers of darkneſſe, and many beloveds, and that Midwife Sel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</hi> How is it, all was good in the beginning, and many ſince
+<pb n="4" facs="tcp:98330:3" rendition="simple:additions"/>the fall, and beginning are all one again in Chriſt the Image of God, that that deſtroyes the devil and his works and ſelfe propriety, which thou muſt come out of, the hole of the earth and thy neſt, for ſuch Chriſt calls. Foxes and fowles, ſuch as be in him reignes over thy head in him againe, out of the one, which is out of the truth, which makes many wayes, ma<g ref="char:EOLhyphen"/>ny Sects, many opinions, out of the divine nature, which makes one, who are one in it, are in wiſdomes ſteps, power and dominion, and ſees and feels thee in the Earth, and cannot eat ſower things without ſetting their teeth an edge: The devil muſt ſerve the Lord, and he muſt wor<g ref="char:EOLhyphen"/>ſhip, and come behind the truth and not before it, and the devil, the ſer<g ref="char:EOLhyphen"/>pent, that is out of the truth is a murtherer, and out of the wiſdome of God which is gentle and from above; but as fallen out of the truth he is deviliſh, devouring, deſtroying, but all things as t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey were in the begin<g ref="char:EOLhyphen"/>ning they were very good, ſtanding in the truth and power of God, and ſo the devil muſt be deſtroyed and his wiſdome: Now doth God deſtroy his own wiſdome? So thou art not in the wiſdom that puts a difference, but we are in that which puts a difference, and remaines; and ſo that he did not create the Devils work, which is out of the truth, which he doth deſtroy; for by wiſdome all things were created and by wiſdome they ſtand, out of this is the <hi>Enmity,</hi> and the works ſet up in his wiſdome, which by this wiſdome muſt be deſtroyed, by this wiſdome, that is above, and ſo the beloved one is turned into his beloved one, from the bed that is defiled, to the bed that is not defiled; ſo mark each bed where each beloved lyes, each marryage, the honourable and the diſhonourable, the defiled and the undefiled, and this wiſdom doth ſee, and ſo here <hi>the Be<g ref="char:EOLhyphen"/>loved that appeares black and terrible to you,</hi> all is known whoſe face is marred in whom there is no beauty, nor forme nor comlineſſe to the earthly, to the Nations, to the formal and literate Earthly ones, nor to the Fowls nor to the Foxes that have holes, who be in the defiled bed, ſet up ſince the fall: For from the <hi>
+                  <g ref="char:V">Ʋ</g>irgins ſtate</hi> in whoſe mouth is no gail, and his face is beloved which is beautyful to the pure eye, but ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red by ſuch as thou art, who art yet in the luſt of the fleſh, and the pride of life which is of the World) who lives within the City &amp; knowes the 12 gates above thy three, which are diſtinct from thee; wiſdom hath ſeen thy in<g ref="char:EOLhyphen"/>vented gates, the gates thou haſt invented, who ſaith, <hi>The ſecond is that that tries the heart, and the firſt that that tries the Spirit, the third is that which none can enter that feeds of the tree of good and evil:</hi> Thou fool, muſt not the heart be tryed before the ſpirit be tryed, and the tree of knowledge tryed when their hearts be tryed, and doth not that one tryal that tryes ſpirits, tries hearts, tries food, is not that one, and is not that the gate? Haſt not thou confounded thy principles that makes many? doth not good enter? Nor no name diſtinct from other, doth not? Chriſts name who was called <hi>the word of God,</hi> enter into the City, which thou ſaiſt <hi>neither good nor righteouſneſſe enters in,</hi> and is not the good and righteous both, and diſtinct from others that makes one: So wiſdome over all the wiſe men of the Earth doth foreſee, that wiſedom, that is to be confounded, and thou art ſeen, whoſe city is the wicked City into which <hi>no righteouſneſſe muſt enter,</hi> who puts no difference, <hi>and the black ſheeps cloathing,</hi> and pride
+<pb n="5" facs="tcp:98330:3" rendition="simple:additions"/>which <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hou muſt be deceived of, which ſignifies <hi>two</hi> in thy owne, as I read I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udge, which is comprehended by the ſheep, who hath the wiſ<g ref="char:EOLhyphen"/>dome of him by whom the world was made, before <hi>twain</hi> was, when all things were good; And is this <hi>black ſheeps cloathing invented by the Serpents wiſedome, and artificiall colours of God</hi> as thou ſayeſt? now doſt thou de<g ref="char:EOLhyphen"/>ſtroy thy own wiſdome here, for wiſdome doth not deſtroy true wiſ<g ref="char:EOLhyphen"/>dome, but the Serpents wiſdom which is out of the truth and its works and doth the Serpents wiſdome which thou ſaiſt, <hi>is the wiſdome of God,</hi> bring people to ſet up ſtately buildings, Idoles, Images, Gold? and doth, the wiſdome of God deceive the wiſdome of God, and deſtroy thoſe things; what, a Kingdom divided? how now, <hi>Roger,</hi> what haſt thou ſet up <hi>two powers</hi> again and ſo confounded thy own principles? what, but <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> power,</hi> yet envyings? What, <hi>Roger,</hi> but <hi>one power,</hi> yet furious, and ſhat<g ref="char:EOLhyphen"/>tering to pieces it ſelfe till it come to nought? then there's no power at all, <hi>Roger,</hi> and what is your <hi>evil to him that doth think it, and envy in the envyous one</hi> and but one power? how comes this oppoſite, &amp; how comes this thinkſt? Is not this all the wiſdome of God, as thou ſeeſt, that is, the wiſdome of the Serpent, and ſo if wiſdom be divided againſt its ſelfe it cannot ſtand. But wiſdome it ſelfe, which is the truth, ſees all this, for envy and ſtrife is that which are out of truth, and turnes againſt the truth; Alack poor brat! how doſt thou build and throw down, who art daſhing thy ſe ſe to pieces againſt the ſtones? If one look upon thy fleſh, it is loathſome and would make one ſick, read this in ſecret <hi>Roger,</hi> in patience, who art a corrupt bulk of Fog, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ho art like a quagmire that ſucks up them that comes upon thee, that art not in the wiſdome, which doth force <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſhun thy mire and clay, who walks in the wiſdome of God miſ<g ref="char:EOLhyphen"/>ſes thy paths and way, where the ſtreames of life flowes, and under the vine ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts, where the ſhowers comes: And ſo thy beaſtly garments are not to be touched, but ſuch there may be in the Earth, in the dark, in thy own powe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, out of truth, that ſees not to ſhun the way, and for an caſefull life gathers together to make up a hill a mountain, which in the end turns to a Quagmire, which they that comes into, their feet doth ſtick faſt, which is made up of beaſtical luſt, earth, and of poweriſh ayre. And her's <hi>Sodom,</hi> which ſaith I am not <hi>Egypt,</hi> but dwell in a plain out of whom juſt <hi>Lot</hi> the Angel calls, whom to <hi>Abraham</hi> is revealed of deſtroying, &amp; the juſt that is out of it called, who ſees it on fire, over it reignes: So who are of Faith are of <hi>Abraham,</hi> of the fleſh of Chriſt, far above thy wiſdom power &amp; fleſh.</p>
+            <p>
+               <hi>If thou appeares wrath, confuſion and darkeneſſe, to them that be in darkneſs to that <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> and yet thou ſaieſt there is but one power, then there is but one eye; and what, is the <hi>confuſion</hi> in the power, and yet but <hi>one?</hi> and <hi>darkneſſe</hi> in the power, and it but <hi>one?</hi> how now <hi>Roger,</hi> how ſmells this? Haſt thou in this ſet up <hi>two powers</hi> and two eyes; and yet thou ſayſt there is but one power; now there is no confuſion in the power of God, which goes over the confuſion, the evil, the darkneſſe, and confounds it; but the confuſion is in the power of darkneſſe, where people ſees not one another, who are from the light with which thou art comprehended and ſeen: And doſt thou appear, an Adulterer to them that be in adultery? and a theef to them that live in theft, and yet thou <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ere is but one
+<pb n="6" facs="tcp:98330:4" rendition="simple:additions"/>power Roger;</hi> what, doth not <hi>one power</hi> appear againſt an other, then <hi>theef</hi> againſt <hi>theef,</hi> and Adulterer againſt adulterer, terror againſt terror; haſt thou not ſet up a tranſgreſſor, or tranſgreſſors here? now if there be but one power, how do they tranſgreſſe then? Now there is but one power which remaine in which there is no theft, no adultery, no terror no iclo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds, for terror and theeves and adulterers are out of it, for all that, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in the darkneſſe: And thou ſaiſt <hi>to him that lives in two powers, thou ap<g ref="char:EOLhyphen"/>pea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, in two powers,</hi> here thou haſt confounded thy own principles by thy own tongue, &amp; thou ſayſt, <hi>thou appeares in confuſion to him that is in confuſion, and all <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut of love to the pure ſeed that is in captivity;</hi> how now <hi>Roger,</hi> is there captivity and but <hi>one power?</hi> and yet the pure ſeed in captivity, what is that which captivates the pure ſeed? and if there be but one power, there is but one love, and then there is no captivity, yet thou ſaiſt there are <hi>many lovers,</hi> who art out of the power of God in the darkneſſe, and ſo in confuſion, &amp; there thou art but the pure eye in the power of God ſees no confuſion in it; for God is not the author of confuſion nor his power, but confuſion is in that which abides not in the power of God, nor in the truth: And we do not Imagine that thou art without the gate, (where all names and diſtinctions are, and ſettings up and throwings down) but know it: And here thou haſt ſet up an oppoſite to thy ſelfe, who ſaies <hi>we Imagin,</hi> ſo two powers thou haſt ſet up, and yet ſayes <hi>there is but one,</hi> and thou ſaiſt this is a full anſwer for all gainſaying; hark, is there gainſaying, and yet but <hi>one power?</hi> and is there a ſingle eye that it appears too? ſo by thy own words thou inferrs that there is a double eye; with the one power of God and the ſingle eye art thou and thy power comprehen<g ref="char:EOLhyphen"/>ded that is out of the truth, who ſaith, the <hi>wiſdome of the Serpent is the wiſ<g ref="char:EOLhyphen"/>dome of God;</hi> is it in the wiſdom of God which is earthly, ſenſual and di<g ref="char:EOLhyphen"/>veliſh? for that is out of the truth, is not God, the God of all truth whoſe wiſdom is diſtinct from the Serpents, theſe things conſider.</p>
+            <p>Again, <hi>Roger Crab,</hi> thou grants <hi>that as a body of fleſh thou art guilty of the whole Law,</hi> yet thou juſtifies thy ſelfe in that ſtate of guilt, and here then juſtifies the wicked which is abomination to the Lord. Again thou ſaiſt <hi>that no body of fleſh on earth can accuſe thee for any tranſgreſſion, no more then</hi> thou <hi>canſt accuſe thy ſelfe.</hi>
+            </p>
+            <p>
+               <hi>Anſ<g ref="char:punc">▪</g>
+               </hi> What need any accuſe thee more then to be in the tranſgreſſion and guilt of the whole Law, as thou accuſeth thy ſelfe, which he that is ſo, cannot enter into Gods Kingdome.</p>
+            <p>
+               <hi>Roger,</hi> thy wiſdome hath perverted thee, and thy own confuſions may make thee aſhamed and keep ſilence, putting thy mouth in the duſt, if ſo be that for thee there may be hope.</p>
+            <p>Thy power and thy ſpirit cannot Correct, it is corrected with the power of the Spirit of them who are called by thee and the world, <hi>Quakers,</hi> who are not found in the Spirit of the world, whom the world is not worthy of, for had they been worthy of them, their Gaols, houſes of correction and Dungeons had not been their place for them, but that is the proviſion of a backſlider, and their houſes that they do prepare for the Lambs of Chriſt; And thy ſpirit is tryed, and thy ſhape and ſeed is ſeen, which is the ſeed of confuſion, the Adulterer, and
+<pb n="7" facs="tcp:98330:4" rendition="simple:additions"/>the who<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:punc">▪</g> which made up the ſorcerers, but it is gone over, with the power of the Lord, &amp; thy cloud is ſeen in which is no rain, &amp; thy well is ſeen in which is no water, and it hath been tryed to the bottom, &amp; what a friend who art to the <hi>Quakers,</hi> who are come through that, that can be ſhaken, and into that which cannot be ſhaken, by which thou art tryed, and all upon the earth, by ſuch as hath the ſalt in themſelves, That are <hi>the light of the world,</hi> &amp; are as <hi>a City that cannot be hid,</hi> for had they not had the ſalt in themſelves, they had been trode under mens feet before now; ſo thou art ſuch a friend of the Quakers, that hid his talent, whoſe hand and <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ot muſt be bound, who art with thy challengings, in the chief Prieſts nature, as <hi>Judas</hi> did with that friend, with multitudes and ſlaves and ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ords, that would betray and enſnare the juſt, and get them into the earthly liberty, where there is not its reſt, nor Sabbath, but in God the Creator of all things, and truth fears thee not, to look thee in the face, for to it muſt thee &amp; all unclean bow, in which we ſtand &amp; reign, which i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the condemnation of all the unjuſt, which is the anſwerer of all the juſt, which is the releaſer of all the captives and priſoners by the unjuſt, which power muſt have an end, but this power hath no end, which is unity and brings into oneneſs, which remains, and with the light the Power of God, <hi>th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> body that thou haſt prepared,</hi> out of which comes all the ſtrife, and carnal weapons, <hi>which body</hi> is not the fleſh of Chriſt, but it muſt be put off before that appears which remain, and thou yet with thy body which haſt <hi>ſet forth and prepared,</hi> out of which comes all the contention in the world, aggrava<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion and ſtrife, and it is but <hi>the body of fleſh,</hi> upon which the law was given, by thy own confeſſion, in that number thou art a ſon of old <hi>Adam,</hi> not of Chriſt who was made under the Law, and the bolts, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all and locks, are ſeen and felt, and arts which preſerves the Adulterer and priſons the innocent, who would raviſh and deſtroy the Virgins and mar their beauty, and defile their Marriage bed which is honourable, the eyes of all that look up to Chriſt, and beholds their help, cannot turn into thee, though thou lie in every corner of the ſtreet, though it be in time o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> night, though it be in the time that ſimple ones are travelling, though it be in the time that <hi>thou may ſay the good man is gone from home, and gone a long journey, and taken a Bag of money, come in thou haſt Loves, and all that be with us, we have one purſe, and we be brethren,</hi> But truth and life and power ſees in what, for that is attained to which the tempter hath nought in, though he may find in the firſt <hi>Adam</hi> a tranſgreſſor, and <hi>Evah</hi> his wife, but in the ſeed he finds none, (but the Serpent,) that bruiſes his head, and in that is the Quakers life, and in that body they are in, which is peace above thy body in which is contention and ſtrife, where men are ſurfetted with their aggravating ſpirits, who <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eels, who ſees over the body that burthens the juſt in the particular, in which I am one, and do it viſit, though a plague, a Hammer, a ſword to thee; who ſtands in love to all mankind in the Creation, and knowes the peace of that Kingdom in which is no end, thy jealouſie burning, and thy flame is quenched with the power of the Lord, and the hear of another <hi>love,</hi> thy motive is ſeen from what ground it comes from, thee and the dark Prieſts, from that body out of which comes all uncleanneſs in the world,
+<pb n="8" facs="tcp:98330:5" rendition="simple:additions"/>envyes, fightings, Quarrellings, evil <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>maginations, falſe accuſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ions. The Lyon is raiſed up that will rend and tear the beaſt, the nature, and the beaſt himſelf, the Quakers power and ſpirit it ſeems you feel that doth torment you <hi>J.E.</hi> and <hi>Roger Crab;</hi> And as for the Ballat, and the Bal<g ref="char:EOLhyphen"/>lad of <hi>J.B.</hi> you are not with them able to get a top of the Quakers hill to ſell your Ballats there; for the Kings throne is ſet, in which there comes no dirt, nor no enchanter, and thou muſt not think to come before the Throne with thy crooked body; and thine is the Kingdom that muſt come down with the Devils, who creeps like vipers upon the earth, and there lives in your naſty holes, who charms againſt them that amongſt you makes not their dens; But the power and Throne hath compaſled your home, that againſt the Lamb you cannot puſh; for that which you at them do throw is but your duſt, who with it cannot dazel the eye of the ryders on, that tramples and treads, whoſe reſt is in the corner ſtone, who ſlings with a ſling, and hits the uncircumciſed in the head, and his feet upon him ſtands, who is come to the fleſh of Chriſt, which is not meat for the Dog, ſwine, and viper, and wolves, and fowls, who this fleſh out of their mouth throwes, and cannot ſwallow down, and the blood of Chriſt they cannot drink, but lies in their ſins, and cor<g ref="char:EOLhyphen"/>ruptions, till they ſtink; for from that filthy thing doth it make clean, and they that drink muſt have the pure mouth, and they that eat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the fleſh hath his life, in which we reign, and remains, and in which we have our being, let us ſee if thou can ſing this ſong.</p>
+            <closer>
+               <signed>G.S.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:98330:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
